@@ -14,4 +14,4 @@ I put my code [here](https://github.com/dinash12) and you can find my LinkedIn p
 
 This blog is a journal of what I learnt during my course of game development.
 
-Want to reach out? Drop me an email at d i n e s h b a l a k r i s n a n [ a t ] g m a i l [ d o t ] c o m
+Want to reach out? Drop me an email at d i n e s h b a l a k r i s n a n 1 [ a t ] g m a i l [ d o t ] c o m
